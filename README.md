@@ -1,10 +1,10 @@
 ﻿### Salut mon pote 👋
 
-- 👑 ・ Je suis président chez `Storm Héberg`
-- ⚜️ ・ Fondateur JLDK LEAK'S
+- 👑 ・ Je suis président chez `Storm Group`
+- ⚜️ ・ Fondateur `Storm Life`
 - 📌 ・ Développeur
 - 💜 ・ YouTube & Twitch
-- 📫 ・ Comment me joindre : `JLDimitri74 ➔ Storm Héberg#6940`
+- 📫 ・ Comment me joindre : `JLDimitri74#2484`
 - 💌 ・ Mail professionnel : `dimitri74@stormheberg.store`
 
 ### Connectez-vous avec moi :
