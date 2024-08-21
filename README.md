@@ -1,11 +1,11 @@
 ﻿### Salut mon pote 👋
 
 - 👑 ・ Je suis président chez `Storm Group`
-- ⚜️ ・ Fondateur `Storm Life`
+- ⚜️ ・ Fondateur `Storm Life & Storm Héberg`
 - 📌 ・ Développeur
 - 💜 ・ YouTube & Twitch
-- 📫 ・ Comment me joindre : `JLDimitri74#2484`
-- 💌 ・ Mail professionnel : `dimitri74@stormheberg.store`
+- 📫 ・ Comment me joindre : `sl_dimitri_74` (Discord)
+- 💌 ・ Mail professionnel : `dimitri74@stormhebergweb.com`
 
 ### Connectez-vous avec moi :
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -46,5 +46,5 @@
 <br />
 
 ---
-[discord]: https://discord.gg/Ssxwwtbn3z
-[stormheberg]: https://stormheberg.store
+[discord]: https://discord.gg/YAPASMEC
+[stormheberg]: https://stormhebergweb.com
