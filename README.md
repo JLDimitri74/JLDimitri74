@@ -1,11 +1,11 @@
 ﻿### Salut mon pote 👋
 
 - 👑 ・ Je suis président chez `Storm Group`
-- ⚜️ ・ Fondateur `Storm Life & Storm Héberg`
-- 📌 ・ Développeur
+- ⚜️ ・ Fondateur `Storm Life & Storm Héberg & MégaBot`
+- 📌 ・ Développeur [<img align="left" alt="Certificat Udemy (non reconnu)" width="22px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-53a3a499-55fd-4099-a933-a0c99b4d5458.jpg?v=1588270611000" />][Certificat Udemy (non reconnu)]
 - 💜 ・ YouTube & Twitch
-- 📫 ・ Comment me joindre : `sl_dimitri_74` (Discord)
-- 💌 ・ Mail professionnel : `dimitri74@stormhebergweb.com`
+- 📫 ・ Comment me joindre : `jldimitri74` (Discord)
+- 💌 ・ Mail professionnel : `dimitri74@anticheat.fr`
 
 ### Connectez-vous avec moi :
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
