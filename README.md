@@ -2,7 +2,7 @@
 
 - 👑 ・ Je suis président chez `Storm Group`
 - ⚜️ ・ Fondateur `Storm Life & Storm Héberg & MégaBot`
-- 📌 ・ Développeur <img align="left" alt="Certificat Udemy (non reconnu)" width="22px" src="https://cdn.discordapp.com/attachments/855129718306635776/1341909124765581352/UC-53a3a499-55fd-4099-a933-a0c99b4d5458.png?ex=67b7b5c2&is=67b66442&hm=9e06ca0874faec20acd955d6ba6906e5ec5fbb81fc0d5a1e80240f90cb7e6da0&" />[Certificat Udemy (non reconnu)]
+-  Développeur <img align="left" alt="Certificat Udemy (non reconnu)" width="22px" src="https://cdn.discordapp.com/attachments/855129718306635776/1341909124765581352/UC-53a3a499-55fd-4099-a933-a0c99b4d5458.png?ex=67b7b5c2&is=67b66442&hm=9e06ca0874faec20acd955d6ba6906e5ec5fbb81fc0d5a1e80240f90cb7e6da0&" />[Certificat Udemy (non reconnu)]
 - 💜 ・ YouTube & Twitch
 - 📫 ・ Comment me joindre : `jldimitri74` (Discord)
 - 💌 ・ Mail professionnel : `dimitri74@anticheat.fr`
