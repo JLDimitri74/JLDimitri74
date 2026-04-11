@@ -4,12 +4,12 @@
 - ⚜️ ・ Fondateur `GuardianX & Storm Life & Storm Héberg & MégaBot`
 - ❤・Développeur Certificat Udemy (non reconnu)
 - 📫 ・ Comment me joindre : `jldimitri74` (Discord)
-- 💌 ・ Mail professionnel : `contact@guardianx.best`<a href="mailto:contact@guardianx.best">Envoyer un email</a>
+- 💌 ・ Mail professionnel : `contact@guardianx.best`
 
 
 
 ### Connectez-vous avec moi :
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="GuardianX" width="22px" src="https://guardianx.best/guardianx.png" />][discord]
 
 <br />
 
