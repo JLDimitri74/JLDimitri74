@@ -1,7 +1,7 @@
 ﻿### Hey buddy 👋
 
-- 👑 ・ CEO `Vertex Studios`
-- ⚜️ ・ Team `@ItsZmainDev`
+- 👑 ・ CEO [`Vertex Studios`][VertexStudios]
+- ⚜️ ・ Team [`ItsZmainDev`][github]
 - 📫 ・ How to reach me : `jldimitri74` (Discord)
 - 💌 ・ Professional email : `jldimitri74@vxs.best`
 
@@ -32,3 +32,5 @@
 
 ---
 [discord]: https://discord.gg/z3wZzjf33t
+[VertexStudios]: https://github.com/VX-STUDIOS
+[github]: https://github.com/ItsZmainDev
