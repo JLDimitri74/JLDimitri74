@@ -1,19 +1,18 @@
-﻿### Salut mon pote 👋
+﻿### Hey buddy 👋
 
-- 👑 ・ Je suis président chez `Storm Group`
-- ⚜️ ・ Fondateur `GuardianX & Storm Life & Storm Héberg & MégaBot`
-- ❤・Développeur Certificat Udemy (non reconnu)
-- 📫 ・ Comment me joindre : `jldimitri74` (Discord)
-- 💌 ・ Mail professionnel : `contact@guardianx.best`
-
+- 👑 ・ CEO `Vertex Studios`
+- ⚜️ ・ Team `@ItsZmainDev`
+- 📫 ・ How to reach me : `jldimitri74` (Discord)
+- 💌 ・ Professional email : `jldimitri74@vxs.best`
 
 
-### Connectez-vous avec moi :
+
+### Connect with me :
 [<img align="left" alt="GuardianX" width="22px" src="https://guardianx.best/guardianx.png" />][discord]
 
 <br />
 
-### Langues et outils :
+### Languages ​​and tools :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][discord]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][discord]
