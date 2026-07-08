@@ -8,7 +8,7 @@
 
 
 ### Connect with me :
-[<img align="left" alt="GuardianX" width="22px" src="https://guardianx.best/guardianx.png" />][discord]
+[<img align="left" alt="GuardianX" width="22px" src="https://guardianx.best/favicon.ico" />][discord]
 
 <br />
 
